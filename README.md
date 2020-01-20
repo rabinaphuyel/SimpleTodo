@@ -4,7 +4,7 @@
 
 Submitted by: **Rabina Phuyel**
 
-Time spent: **X** hours spent in total
+Time spent: **12** hours spent in total
 
 ## User Stories
 
